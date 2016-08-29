@@ -610,16 +610,20 @@ background-image: url(new_year_background.png);
   
   #skillc{
   font-size:16px;
-  padding: 15px;
+  padding: 30px;
   
   }
   
-  
+  /*  
    #skillc:hover{
   font-size:16px;
   padding: 30px;
   
   }
+  
+  */
+  
+  
   .medium1{
   filter: gray; /* IE6-9 */
   -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
